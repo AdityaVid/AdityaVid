@@ -1,16 +1,18 @@
-- 👋 Hi, I’m @AdityaVid
-- 😄 Pronouns: he/him
+👋 Hi, I’m Aditya
+😄 Pronouns: he/him
 
-- 👀 I’m an aspiring data scientist passionate about leveraging data to solve real-world problems. Experienced in Python, SQL, and data visualization.
+👀 I’m an aspiring data scientist passionate about leveraging data to solve real-world problems. Experienced in Python, SQL, and data visualization.
 
 ## Featured Projects
 
-### [Project 1 Title: e.g., Customer Churn Prediction with Machine Learning]
+### [AI capstone - AI-Driven Molecular Representation Learning]
 
-[1-3 sentence description. Focus on the problem, your solution, and the results.]
+- Researched and analyzed 10+ graph augmentation techniques
+- Engineered a Python pipeline using PyTorch Geometric and RDKit to automate augmentation, embedding generation, and downstream task evaluation subjectivity, and various readability metrics
+- Achieved a 15% improvement in downstream task performance by identifying optimal augmentation
 
-*   **Repository:** [Link to GitHub repo]
-*   **Technologies:** Python, Pandas, Scikit-learn, Matplotlib
+*   **Repository:** [[Link to GitHub repo](https://github.com/t5-optml/MolCLR-data-augment)]
+*   **Technologies:** PyTorch, RDKit, Weights & Biases, scikit-learn, Matplotlib.
 
 [Optional: Include a small, relevant image/GIF here]
 
