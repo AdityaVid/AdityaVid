@@ -14,21 +14,27 @@
 *   **Repository:** [[Link to GitHub repo](https://github.com/t5-optml/MolCLR-data-augment)]
 *   **Technologies:** PyTorch, RDKit, Weights & Biases, scikit-learn, Matplotlib.
 
-[Optional: Include a small, relevant image/GIF here]
+### [Library Database Management Systema]
 
-### [Project 2 Title: e.g., Analysis of NYC Taxi Trip Data]
 
-[1-3 sentence description]
+- Comprehensive Book Management: Developed a system to Insert, Borrow, Search, Update, Database with each transaction
+- Penalty Checking: Implemented a feature to check penalties and overdue fees associated with borrowed books
+- User-Friendly CLI: Designed a Command-Line Interface for easy user interaction, with robust Error Handling
+- Built a RESTful API for a student portal application using Python and Flask, achieving 95% test coverage through comprehensive unit and integration testing.
 
-*   **Repository:** [Link to GitHub repo]
-*   **Technologies:** Python, Pandas, Seaborn, SQL
+*   **Repository:** [[Link to GitHub repo](https://github.com/AdityaVid/PythonSqlLibraryInterface)]
+*   **Technologies:** Python, Pandas, PySQL, MongoDB
 
-### [Project 3 Title: e.g., Time Series Forecasting of Stock Prices]
+### [Real-Time Text Translation App]
 
-[1-3 sentence description]
+- Researched and optimized tokenization/embedding techniques for multilingual LLMs, improving inference speed by 25% and reducing computational costs by 18%.
+- Developed a React-based UI for real-time translation models, integrating REST APIs and enabling dynamic architecture comparison for 500+ beta users.
+- Collaborated with DevOps to Dockerize models, streamlining AWS EC2 deployment and reducing setup time by 40%.
 
-*   **Repository:** [Link to GitHub repo]
-*   **Technologies:** Python, Pandas, Statsmodels, Prophet
+Technologies: Python, TensorFlow, Keras, NumPy, Pandas, Matplotlib
+
+*   **Repository:** [[Link to GitHub repo](https://github.com/AdityaVid/NullClass-Task5)]
+*   **Technologies:** Python, TensorFlow, Keras, NumPy, Pandas, Matplotlib, RestAPI, ReachJs, Docker
 
 ## Skills
 
@@ -37,16 +43,5 @@
 *   **Machine Learning:** Regression, Classification, Clustering, Time Series Analysis
 *   **Databases:** SQL
 * **Other Tools:** Jupyter Notebook
-
-## Other Projects
-
-*   [Project 4 Title]: [Brief description] - [Link to repo]
-*   [Project 5 Title]: [Brief description] - [Link to repo]
-    ... (Keep this section concise)
-
-## Contact
-
-*   **Email:** [your.email@example.com]
-*   **LinkedIn:** [Link to your LinkedIn profile]
 
 I'm actively seeking data science internship and full-time opportunities. Let's connect!
