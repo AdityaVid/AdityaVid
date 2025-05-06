@@ -7,9 +7,10 @@
 
 ### [AI capstone - AI-Driven Molecular Representation Learning]
 
-- Researched and analyzed 10+ graph augmentation techniques
-- Engineered a Python pipeline using PyTorch Geometric and RDKit to automate augmentation, embedding generation, and downstream task evaluation subjectivity, and various readability metrics
-- Achieved a 15% improvement in downstream task performance by identifying optimal augmentation
+- Help research and develop novel graph augmentation techniques for predicting molecular properties
+- Developed Probabilistic Edge Pertubarion inspired by Laplace Edge Perturbation
+- Help test and evaluate multiple downstreamed finetuneing tasks based on weights from the pretrained models
+- Tried to beat baseline's prediction accuracy, but not more than 0.98%
 
 *   **Repository:** [[Link to GitHub repo](https://github.com/t5-optml/MolCLR-data-augment)]
 *   **Technologies:** PyTorch, RDKit, Weights & Biases, scikit-learn, Matplotlib.
