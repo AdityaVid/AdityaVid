@@ -13,7 +13,7 @@
 - Tried to beat baseline's prediction accuracy, but not more than 0.98%
 
 *   **Repository:** [[Link to GitHub repo](https://github.com/t5-optml/MolCLR-data-augment)]
-*   **Technologies:** PyTorch, RDKit, Weights & Biases, scikit-learn, Matplotlib.
+ PyTorch, RDKit, Weights & Biases, scikit-learn, Matplotlib.
 
 ### [Library Database Management Systema]
 
@@ -28,14 +28,17 @@
 
 ### [Real-Time Text Translation App]
 
-- Researched and optimized tokenization/embedding techniques for multilingual LLMs, improving inference speed by 25% and reducing computational costs by 18%.
-- Developed a React-based UI for real-time translation models, integrating REST APIs and enabling dynamic architecture comparison for 500+ beta users.
-- Collaborated with DevOps to Dockerize models, streamlining AWS EC2 deployment and reducing setup time by 40%.
+Worked on backend for testing different LLM models for faster language translation, as well as build a UI using React
 
-Technologies: Python, TensorFlow, Keras, NumPy, Pandas, Matplotlib
+- Built Transformers, RNNs, Encoder/Decoder networks
+- Experimented with different word embedding techniques: GloVe and Word2Vec
+- Researched and optimized tokenization/embedding techniques for multilingual LLMs
+- Created various test cases to test different models using internal and external cross validation
+- Was able to increase tranlation times by 12% and app loading times by 4%
+- Developed a React-based UI for real-time translation models
 
 *   **Repository:** [[Link to GitHub repo](https://github.com/AdityaVid/NullClass-Task5)]
-*   **Technologies:** Python, TensorFlow, Keras, NumPy, Pandas, Matplotlib, RestAPI, ReachJs, Docker
+*   **Technologies:** Python, TensorFlow, Keras, NumPy, Pandas, Matplotlib, HuggingsFace, React, Docker 
 
 ## Skills
 
