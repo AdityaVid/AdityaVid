@@ -5,6 +5,21 @@
 
 ## Featured Projects
 
+
+### [Real-Time Text Translation App]
+
+Worked on backend for testing different LLM models for faster language translation, as well as build a UI using React
+
+- Built Transformers, RNNs, Encoder/Decoder networks
+- Experimented with different word embedding techniques: GloVe and Word2Vec
+- Researched and optimized tokenization/embedding techniques for multilingual LLMs
+- Created various test cases to test different models using internal and external cross validation
+- Was able to increase tranlation times by 12% and app loading times by 4%
+- Developed a React-based UI for real-time translation models
+
+*   **Repository:** [[Link to GitHub repo](https://github.com/AdityaVid/NullClass-Task5)]
+*   **Technologies:** Python, TensorFlow, Keras, NumPy, Pandas, Matplotlib, HuggingsFace, React, Docker
+
 ### [AI capstone - AI-Driven Molecular Representation Learning]
 
 - Help research and develop novel graph augmentation techniques for predicting molecular properties
@@ -25,20 +40,6 @@
 
 *   **Repository:** [[Link to GitHub repo](https://github.com/AdityaVid/PythonSqlLibraryInterface)]
 *   **Technologies:** Python, Pandas, PySQL, MongoDB
-
-### [Real-Time Text Translation App]
-
-Worked on backend for testing different LLM models for faster language translation, as well as build a UI using React
-
-- Built Transformers, RNNs, Encoder/Decoder networks
-- Experimented with different word embedding techniques: GloVe and Word2Vec
-- Researched and optimized tokenization/embedding techniques for multilingual LLMs
-- Created various test cases to test different models using internal and external cross validation
-- Was able to increase tranlation times by 12% and app loading times by 4%
-- Developed a React-based UI for real-time translation models
-
-*   **Repository:** [[Link to GitHub repo](https://github.com/AdityaVid/NullClass-Task5)]
-*   **Technologies:** Python, TensorFlow, Keras, NumPy, Pandas, Matplotlib, HuggingsFace, React, Docker 
 
 ## Skills
 
